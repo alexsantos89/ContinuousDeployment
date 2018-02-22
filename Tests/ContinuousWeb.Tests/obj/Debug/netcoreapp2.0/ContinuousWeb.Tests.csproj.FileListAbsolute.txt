@@ -1,0 +1,15 @@
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.deps.json
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.runtimeconfig.json
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.runtimeconfig.dev.json
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.dll
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.pdb
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.dll
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.pdb
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.csproj.CoreCompileInputs.cache
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.AssemblyInfoInputs.cache
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.AssemblyInfo.cs
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.dll
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.pdb

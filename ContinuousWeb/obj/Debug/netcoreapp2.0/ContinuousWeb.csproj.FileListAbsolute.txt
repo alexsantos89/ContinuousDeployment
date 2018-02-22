@@ -1,0 +1,10 @@
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.deps.json
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.runtimeconfig.json
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.runtimeconfig.dev.json
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.dll
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.pdb
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.csproj.CoreCompileInputs.cache
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.AssemblyInfoInputs.cache
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.AssemblyInfo.cs
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.dll
+D:\Projetos\AzureAppServiceConfiguration\Mod3Lab1\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.pdb
